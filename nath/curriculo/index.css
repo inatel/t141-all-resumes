@@ -1,0 +1,42 @@
+#cab{
+    -webkit-column-count:2;
+}
+#titulo{
+    padding-bottom: 10px;
+}
+#dados{
+    text-align: right;
+    padding-top: 30px;
+}
+body{
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 40px;
+}
+p{
+    margin-left: 50px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+h2{
+    padding-bottom: 0px;
+    padding-top: 0px;
+
+}
+h3
+{
+    margin-left:20px;
+        padding-top: 0px;
+    padding-bottom: 0px;
+}
+h4{
+    margin-left: 40px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+img{
+    width: 128px;
+    height: 128px;
+    padding-bottom: 0px;
+}
